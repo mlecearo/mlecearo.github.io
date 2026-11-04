@@ -1,1 +1,3 @@
 # mlecearo.github.io
+Hau orri-adibide bat da. Argitalpenak ez bezala —zeinak blogaren hasierako orrian agertzen baitira, argitaratu ziren ordenaren arabera—, orriak egokiagoak dira denboraren poderioz zahartzen ez den edukirako, baldin eta eduki hori errazago eskuragarri egotea nahi baduzu; adibidez, zure harremanetarako datuak edo zuri buruzko informazioa. Egin klik «Editatu» estekan orri honetan aldaketak egiteko edo beste orri bat gehitzeko.
+#EGILEA: Markel Lecea
